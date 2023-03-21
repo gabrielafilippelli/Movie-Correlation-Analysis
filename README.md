@@ -7,4 +7,4 @@
 ## Results
 • High correlation between a film's budget and its gross earnings and grew exponentially
 
-• Created a correlation matrix to easily identifiy which data points (year made, budget, gross earnings, runtime) had the highest correlations
+• Created a correlation matrix to easily identifiy which variables (year, budget, gross earnings, votes) had the highest correlations
