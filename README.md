@@ -1,5 +1,5 @@
 ## Overview
-With a dataset containing 6820 movies (220 movies per year, 1986-2016). I looked at what variables effect the gross revenue from movies. I used Python Notebook to clean and visualize the data, and identified key drivers of movie budgets and gross revenue fluctuations in various films across multiple genres.
+With a dataset containing 6820 movies (220 movies per year, 1986-2016). I looked at which variables effect the gross revenue from movies. I used Python Notebook to clean and visualize the data, and identified key drivers of movie budgets and gross revenue fluctuations in various films across multiple genres.
 
 ## Code Used:
 Python Version: 3.8
@@ -7,7 +7,7 @@ Python Version: 3.8
 Packages: Numpy, Pandas, Seaborn, Matplotlib
 
 ## Data Gathering
-I downloaded a dataset from Kaggle:
+I downloaded a dataset from Kaggle which was scraped from IMDb:
 - **[Movie Industry Dataset](https://www.kaggle.com/datasets/danielgrijalvas/movies)** (Source: Kaggle)
 
 ## Data Cleaning + Data Manipulation
