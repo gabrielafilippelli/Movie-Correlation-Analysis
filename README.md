@@ -19,3 +19,8 @@ After loading the dataset into Jupyter Notebooks, the first order of business is
 High correlation between a film's budget and its gross earnings, created a positive linear graph from the correlation.
 
 Results of correlation analysis was visualized in the form of a heatmap.
+
+## Data Visualizations
+<p align="center">
+  <img src= "https://github.com/gabrielafilippelli/Movie_Correlation_Analysis/blob/main/images/Budget_vs_Gross_Earnings.png">
+</p>
