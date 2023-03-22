@@ -1,4 +1,4 @@
-<h1 align="center">Movie Correlation Data Analysis Project </h1>
+<h1 align="center">Movie Correlation in Python: Data Analysis Project </h1>
 
 ## Overview
 With a dataset containing 6820 movies (220 movies per year, 1986-2016). I looked at which variables effect the gross revenue from movies. I used Python Notebook to clean and visualize the data, and correlate the various attributes in films across multiple genres.
